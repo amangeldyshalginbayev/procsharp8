@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableValueTypes", "NullableValueTypes\NullableValueTypes.csproj", "{B69F2AF9-9CBB-433B-8DBD-6FE39F246E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceTypes", "NullableReferenceTypes\NullableReferenceTypes.csproj", "{333B13F3-7767-4640-BD05-E6DB2E8361A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithTuples", "FunWithTuples\FunWithTuples.csproj", "{56F7381C-1E63-4850-9AF7-A0A60156689C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69F2AF9-9CBB-433B-8DBD-6FE39F246E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69F2AF9-9CBB-433B-8DBD-6FE39F246E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69F2AF9-9CBB-433B-8DBD-6FE39F246E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69F2AF9-9CBB-433B-8DBD-6FE39F246E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333B13F3-7767-4640-BD05-E6DB2E8361A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333B13F3-7767-4640-BD05-E6DB2E8361A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333B13F3-7767-4640-BD05-E6DB2E8361A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333B13F3-7767-4640-BD05-E6DB2E8361A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F7381C-1E63-4850-9AF7-A0A60156689C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F7381C-1E63-4850-9AF7-A0A60156689C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F7381C-1E63-4850-9AF7-A0A60156689C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F7381C-1E63-4850-9AF7-A0A60156689C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
