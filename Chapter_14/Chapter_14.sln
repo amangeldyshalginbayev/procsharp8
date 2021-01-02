@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessManipulator", "ProcessManipulator\ProcessManipulator.csproj", "{3742EB24-A4D0-4AC5-A838-14752F34E847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultAppDomainApp", "DefaultAppDomainApp\DefaultAppDomainApp.csproj", "{408FD1F6-B20F-4C65-9230-697A38D5F213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{2855930D-CE17-44CC-819C-23A599264366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3742EB24-A4D0-4AC5-A838-14752F34E847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3742EB24-A4D0-4AC5-A838-14752F34E847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3742EB24-A4D0-4AC5-A838-14752F34E847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3742EB24-A4D0-4AC5-A838-14752F34E847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{408FD1F6-B20F-4C65-9230-697A38D5F213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{408FD1F6-B20F-4C65-9230-697A38D5F213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{408FD1F6-B20F-4C65-9230-697A38D5F213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{408FD1F6-B20F-4C65-9230-697A38D5F213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2855930D-CE17-44CC-819C-23A599264366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2855930D-CE17-44CC-819C-23A599264366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2855930D-CE17-44CC-819C-23A599264366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2855930D-CE17-44CC-819C-23A599264366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
