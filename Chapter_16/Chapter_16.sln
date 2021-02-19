@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNamespaces", "CustomNamespaces\CustomNamespaces.csproj", "{05ED68F5-6209-4B07-B09E-CCC80995AE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithConfiguration", "FunWithConfiguration\FunWithConfiguration.csproj", "{30674CA0-66BA-4540-A9DB-BD292A242E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05ED68F5-6209-4B07-B09E-CCC80995AE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05ED68F5-6209-4B07-B09E-CCC80995AE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05ED68F5-6209-4B07-B09E-CCC80995AE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05ED68F5-6209-4B07-B09E-CCC80995AE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30674CA0-66BA-4540-A9DB-BD292A242E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30674CA0-66BA-4540-A9DB-BD292A242E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30674CA0-66BA-4540-A9DB-BD292A242E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30674CA0-66BA-4540-A9DB-BD292A242E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
